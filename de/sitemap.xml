@@ -3,104 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://haenelt.github.io/de/blog/</loc>
+    <loc>https://www.haenelt.github.io/de/blog/</loc>
   </url>
   
   <url>
-    <loc>https://haenelt.github.io/de/categories/</loc>
+    <loc>https://www.haenelt.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haenelt.github.io/categories/"
+                href="https://www.haenelt.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://haenelt.github.io/de/categories/"
+                href="https://www.haenelt.github.io/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://haenelt.github.io/de/</loc>
+    <loc>https://www.haenelt.github.io/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haenelt.github.io/"
+                href="https://www.haenelt.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://haenelt.github.io/de/"
+                href="https://www.haenelt.github.io/de/"
                 />
   </url>
   
   <url>
-    <loc>https://haenelt.github.io/de/contact/</loc>
+    <loc>https://www.haenelt.github.io/de/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haenelt.github.io/contact/"
+                href="https://www.haenelt.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://haenelt.github.io/de/contact/"
+                href="https://www.haenelt.github.io/de/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://haenelt.github.io/de/publications/</loc>
+    <loc>https://www.haenelt.github.io/de/publications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haenelt.github.io/publications/"
+                href="https://www.haenelt.github.io/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://haenelt.github.io/de/publications/"
+                href="https://www.haenelt.github.io/de/publications/"
                 />
   </url>
   
   <url>
-    <loc>https://haenelt.github.io/de/series/</loc>
+    <loc>https://www.haenelt.github.io/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haenelt.github.io/series/"
+                href="https://www.haenelt.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://haenelt.github.io/de/series/"
+                href="https://www.haenelt.github.io/de/series/"
                 />
   </url>
   
   <url>
-    <loc>https://haenelt.github.io/de/tags/</loc>
+    <loc>https://www.haenelt.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haenelt.github.io/tags/"
+                href="https://www.haenelt.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://haenelt.github.io/de/tags/"
+                href="https://www.haenelt.github.io/de/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://haenelt.github.io/de/about/</loc>
+    <loc>https://www.haenelt.github.io/de/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haenelt.github.io/about/"
+                href="https://www.haenelt.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://haenelt.github.io/de/about/"
+                href="https://www.haenelt.github.io/de/about/"
                 />
   </url>
   
