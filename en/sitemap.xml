@@ -3,117 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.haenelt.github.io/blog/</loc>
+    <loc>https://haenelt.github.io/blog/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.haenelt.github.io/</loc>
+    <loc>https://haenelt.github.io/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.haenelt.github.io/de/"
+                href="https://haenelt.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.haenelt.github.io/"
+                href="https://haenelt.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://www.haenelt.github.io/series/gbb/</loc>
+    <loc>https://haenelt.github.io/series/gbb/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.haenelt.github.io/blog/blog_1/</loc>
+    <loc>https://haenelt.github.io/blog/blog_1/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.haenelt.github.io/series/</loc>
+    <loc>https://haenelt.github.io/series/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.haenelt.github.io/de/series/"
+                href="https://haenelt.github.io/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.haenelt.github.io/series/"
+                href="https://haenelt.github.io/series/"
                 />
   </url>
   
   <url>
-    <loc>http://www.haenelt.github.io/about/</loc>
+    <loc>https://haenelt.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.haenelt.github.io/de/about/"
+                href="https://haenelt.github.io/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.haenelt.github.io/about/"
+                href="https://haenelt.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>http://www.haenelt.github.io/categories/</loc>
+    <loc>https://haenelt.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.haenelt.github.io/de/categories/"
+                href="https://haenelt.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.haenelt.github.io/categories/"
+                href="https://haenelt.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.haenelt.github.io/contact/</loc>
+    <loc>https://haenelt.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.haenelt.github.io/de/contact/"
+                href="https://haenelt.github.io/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.haenelt.github.io/contact/"
+                href="https://haenelt.github.io/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://www.haenelt.github.io/publications/</loc>
+    <loc>https://haenelt.github.io/publications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.haenelt.github.io/de/publications/"
+                href="https://haenelt.github.io/de/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.haenelt.github.io/publications/"
+                href="https://haenelt.github.io/publications/"
                 />
   </url>
   
   <url>
-    <loc>http://www.haenelt.github.io/tags/</loc>
+    <loc>https://haenelt.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.haenelt.github.io/de/tags/"
+                href="https://haenelt.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.haenelt.github.io/tags/"
+                href="https://haenelt.github.io/tags/"
                 />
   </url>
   

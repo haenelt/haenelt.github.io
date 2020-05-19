@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Haenelt</title>
-    <link>http://www.haenelt.github.io/</link>
+    <link>https://haenelt.github.io/</link>
     <description>Recent content on Daniel Haenelt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.haenelt.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://haenelt.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GBB method: Toy example</title>
-      <link>http://www.haenelt.github.io/blog/blog_1/</link>
+      <link>https://haenelt.github.io/blog/blog_1/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.haenelt.github.io/blog/blog_1/</guid>
+      <guid>https://haenelt.github.io/blog/blog_1/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://www.haenelt.github.io/about/</link>
+      <link>https://haenelt.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.haenelt.github.io/about/</guid>
+      <guid>https://haenelt.github.io/about/</guid>
       <description>I am a PhD student in the Neurophysics department at the Max Planck Institute for Human Cognitive and Brain Sciences (MPI-CBS) in Leipzig, Germany. I studied physics at the Free University in Berlin and at the Leipzig University, where I extended my studies to musicology and philosophy. During my Master studies in physics, I joined the Neurophysics department at the MPI-CBS to write my Master Thesis in the field of high-resolution fMRI at ultra-high magnetic field strengths.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.haenelt.github.io/contact/</link>
+      <link>https://haenelt.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.haenelt.github.io/contact/</guid>
+      <guid>https://haenelt.github.io/contact/</guid>
       <description>Mail: daniel.haenelt@gmail.com (personal) / haenelt@cbs.mpg.de (work)
 Phone: +49 (0) 341 9940 2438
 Address: Max Planck Institute for Human Cognitive and Brain Sciences, Stephanstraße 1a, 04103 Leipzig, Germany</description>
@@ -42,10 +42,10 @@ Address: Max Planck Institute for Human Cognitive and Brain Sciences, Stephanstr
     
     <item>
       <title>Publications</title>
-      <link>http://www.haenelt.github.io/publications/</link>
+      <link>https://haenelt.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.haenelt.github.io/publications/</guid>
+      <guid>https://haenelt.github.io/publications/</guid>
       <description>Articles  Attar, F. M., Kirilina, E., Haenelt, D., Pine, K., Trampel, R., Edwards, L., Weiskopf, N. (2020). Mapping short association fibers in the early cortical visual processing stream using in vivo diffusion tractography. Cerebral Cortex. doi:10.1093/cercor/bhaa049.  Posters  Haenelt, D., Weiskopf, N., Mueller, R., Nasr, S., Polimeni, J., Tootell, R., Sereno, M., Trampel, R. (2019). Reliable 3D mapping of ocular dominance columns in humans using GE-EPI fMRI at 7 T.</description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Haenelt</title>
-    <link>http://www.haenelt.github.io/de/</link>
+    <link>https://haenelt.github.io/de/</link>
     <description>Recent content on Daniel Haenelt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://www.haenelt.github.io/de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://haenelt.github.io/de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blogs</title>
-      <link>http://www.haenelt.github.io/de/blog/</link>
+      <link>https://haenelt.github.io/de/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.haenelt.github.io/de/blog/</guid>
+      <guid>https://haenelt.github.io/de/blog/</guid>
       <description>Oops! No German version available.</description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>http://www.haenelt.github.io/de/contact/</link>
+      <link>https://haenelt.github.io/de/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.haenelt.github.io/de/contact/</guid>
+      <guid>https://haenelt.github.io/de/contact/</guid>
       <description>E-Mail: daniel.haenelt@gmail.com (privat) / haenelt@cbs.mpg.de (geschäftlich)
 Telefon: +49 (0) 341 9940 2438
 Adresse: Max-Planck-Institut für Kognitions- und Neurowissenschaften, Stephanstraße 1a, 04103 Leipzig, Germany</description>
@@ -32,19 +32,19 @@ Adresse: Max-Planck-Institut für Kognitions- und Neurowissenschaften, Stephanst
     
     <item>
       <title>Publikationen</title>
-      <link>http://www.haenelt.github.io/de/publications/</link>
+      <link>https://haenelt.github.io/de/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.haenelt.github.io/de/publications/</guid>
+      <guid>https://haenelt.github.io/de/publications/</guid>
       <description>Artikel  Attar, F. M., Kirilina, E., Haenelt, D., Pine, K., Trampel, R., Edwards, L., Weiskopf, N. (2020). Mapping short association fibers in the early cortical visual processing stream using in vivo diffusion tractography. Cerebral Cortex. doi:10.1093/cercor/bhaa049.  Poster  Haenelt, D., Weiskopf, N., Mueller, R., Nasr, S., Polimeni, J., Tootell, R., Sereno, M., Trampel, R. (2019). Reliable 3D mapping of ocular dominance columns in humans using GE-EPI fMRI at 7 T.</description>
     </item>
     
     <item>
       <title>Über mich</title>
-      <link>http://www.haenelt.github.io/de/about/</link>
+      <link>https://haenelt.github.io/de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.haenelt.github.io/de/about/</guid>
+      <guid>https://haenelt.github.io/de/about/</guid>
       <description>Ich bin Doktorand in der Abteilung für Neurophysik am Max-Planck-Institut für Kognitions- und Neurowissenschaften (MPI-CBS) in Leipzig, Deutschland. Mein Physikstudium habe ich an der Freien Universität in Berlin begonnen und an der Universität in Leipzig fortgeführt, an der ich ebenfalls ein Studium in Musikwissenschaft und Philosophie abgeschlossen habe. Ich bin der Abteilung für Neurophysik während meines Masterstudiums beigetreten und habe meine Masterarbeit im Forschungsfeld der hochaufgelösten funktionalen Magnetresonanztomographie bei hohen magnetischen Feldstärken angefertigt.</description>
     </item>
     
