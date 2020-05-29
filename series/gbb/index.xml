@@ -6,7 +6,7 @@
     <description>Recent content in gbb on Daniel Haenelt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://haenelt.github.io/series/gbb/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>GBB method: Toy example</title>
       <link>https://haenelt.github.io/blog/blog_1/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://haenelt.github.io/blog/blog_1/</guid>
-      <description>  </description>
+      <description>Introduction High-resolution functional magnetic resonance imaging (fMRI) at ultra-high magnetic field strengths of 7 Tesla and above extends the possibilities to study brain functioning in the living human brain. One of the most exciting purposes of high-resolution fMRI is the differentiation of brain activation within the cerebral cortex. This information is especially valuable since it is known that most of the cortex is functionally organized into so called cortical layers and columns.</description>
     </item>
     
   </channel>
