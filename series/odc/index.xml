@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>odc on Daniel Haenelt</title>
+    <link>https://haenelt.github.io/series/odc/</link>
+    <description>Recent content in odc on Daniel Haenelt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://haenelt.github.io/series/odc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ocular dominance columns articles</title>
+      <link>https://haenelt.github.io/blog/blog_2/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://haenelt.github.io/blog/blog_2/</guid>
+      <description>This blog post is aimed to give a list of all ocular dominance columns studies done in the field of human fMRI so far. Only studies which tried to map the columnar pattern are mentioned. Neither decoding nor pure analysis papers are listed here. If someone reads this post and misses one or more articles, I would be very pleased to be notified. The list might be extended in the future.</description>
+    </item>
+    
+  </channel>
+</rss>
