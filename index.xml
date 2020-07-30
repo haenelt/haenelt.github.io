@@ -6,13 +6,22 @@
     <description>Recent content on Daniel Haenelt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://haenelt.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ocular dominance columns articles</title>
+      <title>Ocular Dominance Columns: Example</title>
+      <link>https://haenelt.github.io/blog/blog_3/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://haenelt.github.io/blog/blog_3/</guid>
+      <description>Figure 1. Ocular dominance columns (see red and blue stripes) in the primary visual cortex (V1). The V1/V2 border is shown as white ribbon above the surface. A more detailed description of the surface and how it relates to an actual human brain can be found in the text body. Note that there is a pause in the middle of the video for a better view on V1.</description>
+    </item>
+    
+    <item>
+      <title>Ocular Dominance Columns: Collection of Articles</title>
       <link>https://haenelt.github.io/blog/blog_2/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
@@ -21,7 +30,7 @@
     </item>
     
     <item>
-      <title>GBB method: Toy example</title>
+      <title>GBB Method: Toy Example</title>
       <link>https://haenelt.github.io/blog/blog_1/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
@@ -55,7 +64,7 @@ Address: Max Planck Institute for Human Cognitive and Brain Sciences, Stephanstr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://haenelt.github.io/publications/</guid>
-      <description>Articles  Attar, F. M., Kirilina, E., Haenelt, D., Pine, K., Trampel, R., Edwards, L., Weiskopf, N. (2020). Mapping short association fibers in the early cortical visual processing stream using in vivo diffusion tractography. Cerebral Cortex. doi:10.1093/cercor/bhaa049.  Posters  Haenelt, D., Weiskopf, N., Mueller, R., Nasr, S., Polimeni, J., Tootell, R., Sereno, M., Trampel, R. (2019). Reliable 3D mapping of ocular dominance columns in humans using GE-EPI fMRI at 7 T.</description>
+      <description>Articles  Attar, F. M., Kirilina, E., Haenelt, D., Pine, K., Trampel, R., Edwards, L., Weiskopf, N. (2020). Mapping short association fibers in the early cortical visual processing stream using in vivo diffusion tractography. Cerebral Cortex. doi:10.1093/cercor/bhaa049.  Talks  Haenelt, D., Weiskopf, N., Vaculciakova, V., Mueller, R., Nasr, S., Polimeni, J., Tootell, R., Huber, L., Sereno, M., Trampel, R. (2020). Mapping ocular dominance columns in humans using GE-EPI, SE-EPI and SS-SI-VASO at 7 T.</description>
     </item>
     
   </channel>
