@@ -49,6 +49,12 @@
     
 
     
+      
+        
+        
+        <link rel="stylesheet" href="https://haenelt.github.io/css/coder-dark.min.717236c74e0a5208ef73964a9f44c6b443b689a95b270d8b2a40d0c012460dac.css" integrity="sha256-cXI2x04KUgjvc5ZKn0TGtEO2ialbJw2LKkDQwBJGDaw=" crossorigin="anonymous" media="screen" />
+      
+    
 
     
 
@@ -65,7 +71,9 @@
   
   
   
-  <body class="colorscheme-light"
+    
+  
+  <body class="colorscheme-auto"
         onload=""
   >
     <main class="wrapper">
@@ -132,13 +140,33 @@
 
       <div class="content">
         
-  <section class="container page">
-  <article>
-    <header>
-      <h1>Ocular Dominance Columns: Example</h1>
-    </header>
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">Ocular Dominance Columns: Example</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2020-07-30T00:00:00Z'>
+                July 30, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fas fa-clock"></i>
+              2-minute read
+            </span>
+          </div>
+          
+          
+        </div>
+      </header>
 
-    <p>
+      <div>
+        
+        <p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/BI1bUXA7w2k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
@@ -148,10 +176,63 @@
 <p>In this blog post, I show a small excerpt of my work on mapping ODCs in living humans using high-resolution fMRI at 7 T. Main part of the project is the comparison between different fMRI acquisition strategies with the aim to map ODCs with high specificity across cortical depth. You can find more information in my <a href="https://submissions2.mirasmart.com/ISMRM2020/ViewSubmission.aspx?sbmID=2785&amp;validate=false">talk</a> at the ISMRM 2020.</p>
 <p>The above figure illustrates an exemplary ODC map from one participant acquired with GE-BOLD and isotropic 0.8 mm resolution. The color overlay shows z-scores of the differential contrast (left eye stimulation &gt; right eye stimulation). Please note the red and blue stripes (corresponding to locations with either left or right eye dominance) which are exclusively found in the primary visual cortex (V1). The underlying surface mesh seems a little bit odd and does not look like a normal human brain. This is because we defined the cortical surface mesh in the functional data itself. Since we imaged a coronal-oblique slab which only covers the back of the brain, the surface mesh is only defined for this part of the brain as well and is shown here as inflated mesh for better visualization. When the video starts, you look at the medial side. The mesh is rotated by 90 degrees so that the anterior-to-posterior and dorsal-to-ventral directions are from bottom-to-top and left-to-right in the image, respectively. V1 is on the right side and the V1/V2 border is shown as white ribbon above the mesh and is based on a separate retinotopy scan.</p>
 
-  </article>
+      </div>
+
+
+      <footer>
+        
+
+<section class="see-also">
+  
+    
+    
+    
+      <h3>See also in odc</h3>
+      <nav>
+        <ul>
+        
+        
+          
+        
+          
+            <li>
+              <a href="https://haenelt.github.io/blog/blog_2/">Ocular Dominance Columns: Collection of Articles</a>
+            </li>
+          
+        
+        </ul>
+      </nav>
+    
+  
 </section>
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css" integrity="sha384-dbVIfZGuN1Yq7/1Ocstc1lUEm+AT+/rCkibIcC/OmWo5f0EA48Vf8CytHzGrSwbQ" crossorigin="anonymous">
+
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "yourdiscussshortname" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        
+        
+      </footer>
+    </article>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css" integrity="sha384-dbVIfZGuN1Yq7/1Ocstc1lUEm+AT+/rCkibIcC/OmWo5f0EA48Vf8CytHzGrSwbQ" crossorigin="anonymous">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.js" integrity="sha384-2BKqo+exmr9su6dir+qCw08N2ZKRucY4PrGQPPWU1A7FtlCGjmEGFqXCv5nyM5Ij" crossorigin="anonymous"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"
     onload="renderMathInElement(document.body,
@@ -165,6 +246,7 @@
       }
     );">
   </script>
+  </section>
 
       </div>
 

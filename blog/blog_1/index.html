@@ -49,6 +49,12 @@
     
 
     
+      
+        
+        
+        <link rel="stylesheet" href="https://haenelt.github.io/css/coder-dark.min.717236c74e0a5208ef73964a9f44c6b443b689a95b270d8b2a40d0c012460dac.css" integrity="sha256-cXI2x04KUgjvc5ZKn0TGtEO2ialbJw2LKkDQwBJGDaw=" crossorigin="anonymous" media="screen" />
+      
+    
 
     
 
@@ -65,7 +71,9 @@
   
   
   
-  <body class="colorscheme-light"
+    
+  
+  <body class="colorscheme-auto"
         onload=""
   >
     <main class="wrapper">
@@ -132,13 +140,33 @@
 
       <div class="content">
         
-  <section class="container page">
-  <article>
-    <header>
-      <h1>GBB Method: Toy Example</h1>
-    </header>
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">GBB Method: Toy Example</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2020-05-29T00:00:00Z'>
+                May 29, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fas fa-clock"></i>
+              5-minute read
+            </span>
+          </div>
+          
+          
+        </div>
+      </header>
 
-    <h2 id="introduction">Introduction</h2>
+      <div>
+        
+        <h2 id="introduction">Introduction</h2>
 <p>High-resolution functional magnetic resonance imaging (fMRI) at ultra-high magnetic field strengths of 7 Tesla and above extends the possibilities to study brain functioning in the living human brain. One of the most exciting purposes of high-resolution fMRI is the differentiation of brain activation within the cerebral cortex. This information is especially valuable since it is known that most of the cortex is functionally organized into so called cortical layers and columns.</p>
 <p>However, to study brain activation within the cortex, we have to know the exact location of the cortex. This is not trivial because functional images are pushed in their sensitivity to detect neurally induced changes and not in their contrast between gray matter (GM), white matter (WM), and cerebrospinal fluid (CSF).</p>
 <p>Therefore &mdash; as for more conventional fMRI applications &mdash; we still rely on segmentations which are taken from separate anatomical scans. This comes along with all usual registration problems. The slight difference to conventional fMRI applications is that we can start seeing these anatomical properties in the functional images as well. To base an entire segmentation on those images might still be quite tricky, but we can easily use this additional information to improve an already existing segmentation.</p>
@@ -193,10 +221,47 @@ reg_params[<span style="color:#0ff;font-weight:bold">&#34;cost_sample&#34;</span
 <h3 id="references">References</h3>
 <p><!-- raw HTML omitted -->[1]<!-- raw HTML omitted --> Greve DN, Fischl B, Accurate and robust brain image alignment using boundary-based registration, Neuroimage 48(1), 63–72 (2009).</p>
 
-  </article>
+      </div>
+
+
+      <footer>
+        
+
+<section class="see-also">
+  
+    
+    
+    
+  
 </section>
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css" integrity="sha384-dbVIfZGuN1Yq7/1Ocstc1lUEm+AT+/rCkibIcC/OmWo5f0EA48Vf8CytHzGrSwbQ" crossorigin="anonymous">
+
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "yourdiscussshortname" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        
+        
+      </footer>
+    </article>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css" integrity="sha384-dbVIfZGuN1Yq7/1Ocstc1lUEm+AT+/rCkibIcC/OmWo5f0EA48Vf8CytHzGrSwbQ" crossorigin="anonymous">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.js" integrity="sha384-2BKqo+exmr9su6dir+qCw08N2ZKRucY4PrGQPPWU1A7FtlCGjmEGFqXCv5nyM5Ij" crossorigin="anonymous"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"
     onload="renderMathInElement(document.body,
@@ -210,6 +275,7 @@ reg_params[<span style="color:#0ff;font-weight:bold">&#34;cost_sample&#34;</span
       }
     );">
   </script>
+  </section>
 
       </div>
 
