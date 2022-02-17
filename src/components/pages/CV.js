@@ -6,7 +6,7 @@ const CV = () => {
     <div >
       <h1>Curriculum Vitae</h1>
       <div className={styles.pdf}>
-        <object data={pdfFile + "#toolbar=1&navpanes=0&scrollbar=1&page=1&view=FitW"} type="application/pdf">
+        <object data={pdfFile} type="application/pdf">
           <p>You do not seem to have a functional PDF plug-in for this browser. <a href={pdfFile}>Link to the PDF!</a></p>
         </object>
       </div>
