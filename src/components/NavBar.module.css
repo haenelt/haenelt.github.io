@@ -12,6 +12,7 @@
   cursor: pointer;
   text-decoration: none;
   font-size: 2rem;
+  width: 100vw;
 }
 
 .navbarMenu {
@@ -20,7 +21,6 @@
   grid-gap: 10px;
   list-style: none;
   text-align: center;
-  width: 42vw;
   justify-content: end;
 }
 
