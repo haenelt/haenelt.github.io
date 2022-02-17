@@ -6,9 +6,9 @@ const CV = () => {
     <div >
       <h1>Curriculum Vitae</h1>
       <div className={styles.pdf}>
-        <object data={pdfFile} type="application/pdf">
-          <p>You do not seem to have a functional PDF plug-in for this browser. <a href={pdfFile}>Link to the PDF!</a></p>
-        </object>
+        <iframe src={pdfFile} title="cv">
+          <p>You do not seem to have a functional PDF plug-in for this browser. <a href={pdfFile}>Link to the CV!</a></p>
+        </iframe>
       </div>
     </div >
   );

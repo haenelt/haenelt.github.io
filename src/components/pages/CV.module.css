@@ -9,8 +9,7 @@
   padding: 1em;
 }
 
-
-.pdf object {
+.pdf iframe {
   display: block;
   width: 100%;
   height: 800px;
