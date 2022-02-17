@@ -1,0 +1,82 @@
+{
+  "haenelt2021": {
+    "author": ["Daniel Haenelt", "Robert Trampel", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Kerrin J. Pine", "Luke J. Edwards", "Saskia Helbling", "Nikolaus Weiskopf"],
+    "title": "Myelination differences of stripes in human V2: Preliminary evidence from 7 T quantitative MRI",
+    "year": "2021",
+    "conference": "Poster presented at 27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)",
+    "city": "Virtual Conference",
+    "country": ""
+  },
+  "iamshchinina2020": {
+    "author": ["Polina Iamshchinina", "Daniel Kaiser", "Renat Yakupov", "Daniel Haenelt", "Alessandro Sciarra", "Hendrik Mattern", "Emrah Duezel", "Oliver Speck", "Nikolaus Weiskopf", "Radoslaw M. Cichy"],
+    "title": "Perceived and mentally rotated contents are differentially represented in cortical layers of V1",
+    "year": "2020",
+    "conference": "Poster presented at 26th Annual Meeting of the Organization for Human Brain Mapping (OHBM)",
+    "city": "Virtual Conference",
+    "country": ""
+  },
+  "haenelt2020": {
+    "author": ["Daniel Haenelt", "Nikolaus Weiskopf", "Lenka Vaculciakova", "Roland Mueller", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Laurentius Huber", "Martin I. Sereno", "Robert Trampel"],
+    "title": "Mapping ocular dominance columns in humans using GE-EPI, SE-EPI and SS-SI-VASO at 7 T",
+    "year": "2020",
+    "conference": "Talk at ISMRM & SMRT Virtual Conference & Exhibition 2020",
+    "city": "Virtual Conference",
+    "country": ""
+  },
+  "haenelt2019a": {
+    "author": ["Daniel Haenelt", "Nikolaus Weiskopf", "Rolan Mueller", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Robert Trampel"],
+    "title": "Reliable 3D mapping of ocular dominance columns in humans using GE-EPI fMRI at 7 T",
+    "year": "2019",
+    "conference": "Poster presented at 25th Annual Meeting of the Organization for Human Brain Mapping (OHBM)",
+    "city": "Rome",
+    "country": "Italy"
+  },
+  "attar2019a": {
+    "author": ["Fakhereh Movahedian Attar", "Evgeniya Kirilina", "Daniel Haenelt", "Robert Trampel", "Luke J. Edwards", "Nikolaus Weiskopf"],
+    "title": "Mapping visual field specific short V1-V2 connectivity using high resolution dMRI and fMRI",
+    "year": "2019",
+    "conference": "Poster presented at 25th Annual Meeting of the Organization for Human Brain Mapping (OHBM)",
+    "city": "Rome",
+    "country": "Italy"
+  },
+  "attar2019b": {
+    "author": ["Fakhereh Movahedian Attar", "Evgeniya Kirilina", "Daniel Haenelt", "Luke J. Edwards", "Kerrin J. Pine", "Nikolaus Weiskopf"],
+    "title": "Mapping short association fibres in the human visual system with ultra high resolution and high sensitivity diffusion MRI",
+    "year": "2019",
+    "conference": "Talk at ISMRM & SMRT Virtual Conference & Exhibition 2019",
+    "city": "Montreal",
+    "country": "Canada"
+  },
+  "neef2019": {
+    "author": ["Nicole E. Neef", "Robert Trampel", "Lauren Lu", "Daniel Haenelt", "Pierre-Louis Bazin", "Robert Turner", "Nikolaus Weiskopf", "Angela D. Friederici"],
+    "title": "Imagined and actual speaking disentangle involvement of motor and somatosensory cortices: Submillimeter resolution resolves the cortical organization of speech pronunciation",
+    "year": "2019",
+    "conference": "Poster presented at Symposium: Neural Bases of Speech Production",
+    "city": "San Francisco",
+    "country": "USA"
+  },
+  "haenelt2019b": {
+    "author": ["Daniel Haenelt", "Robert Trampel", "Roland Mueller", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Nikolaus Weiskopf"],
+    "title": "Reliable mapping of columnar structures in early visual cortex using GE-EPI at 7 T",
+    "year": "2019",
+    "conference": "Poster presented at ISMRM Workshop on Ultrahigh Field Magnetic Resonance",
+    "city": "Dubrovnik",
+    "country": "Croatia"
+  },
+  "haenelt2018": {
+    "author": ["Daniel Haenelt", "Robert Trampel", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Nikolaus Weiskopf"],
+    "title": "Mapping colour-selective columns in V2 across cortical depth using GE- and SE-EPI",
+    "year": "2018",
+    "conference": "Poster presented at 24th Annual Meeting of the Organization for Human Brain Mapping (OHBM)",
+    "city": "Singapore",
+    "country": ""
+  },
+  "haenelt2017": {
+    "author": ["Daniel Haenelt", "Robert Trampel", "Pierre-Louis Bazin", "Nikolaus Weiskopf", "Esther Kuehn"],
+    "title": "Layer-dependent BOLD of M1 during observed and actual finger tapping",
+    "year": "2017",
+    "conference": "Poster presented at the 7th summer school of the International Max Planck Research School on Neuroscience of Communication: Function, Structure, and Plasticity (IMPRS NeuroCom)",
+    "city": "London",
+    "country": "UK"
+  }
+}

@@ -1,0 +1,12 @@
+.publicationList li {
+  margin: 10px 0;
+}
+
+.subsection {
+  margin: 25px 0;
+}
+
+.myName {
+  font-family: 'SourceSansPro-Regular', sans-serif;
+  font-weight: 500;
+}

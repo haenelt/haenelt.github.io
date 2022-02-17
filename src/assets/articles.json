@@ -1,0 +1,32 @@
+{
+  "iamshchinina2021b": {
+    "author": ["Polina Iamshchinina", "Daniel Haenelt", "Robert Trampel", "Nikolaus Weiskopf", "Daniel Kaiser", "Radoslaw M. Cichy"],
+    "title": "Benchmarking GE-BOLD, SE-BOLD, and SS-SI-VASO sequences for depth-dependent separation of feedforward and feedback signals in high-field MRI",
+    "year": "2021",
+    "journal": "bioRxiv",
+    "volume": "",
+    "number": "",
+    "pages": "1-18",
+    "doi": "https://doi.org/10.1101/2021.12.10.472064"
+  },
+  "iamshchinina2021a": {
+    "author": ["Polina Iamshchinina", "Daniel Kaiser", "Renat Yakupov", "Daniel Haenelt", "Alessandro Sciarra", "Hendrik Mattern", "Falk Luesebrink", "Emrah Duezel", "Oliver Speck", "Nikolaus Weiskopf", "Radoslaw M. Cichy"],
+    "title": "Perceived and mentally rotated contents are differentially represented in cortical depth of V1",
+    "year": "2021",
+    "journal": "Communication Biology",
+    "volume": "4",
+    "number": "1069",
+    "pages": "1-8",
+    "doi": "https://doi.org/10.1038/s42003-021-02582-4"
+  },
+  "attar2020": {
+    "author": ["Fakhereh Movahedian Attar", "Evgeniya Kirilina", "Daniel Haenelt", "Kerrin J. Pine", "Robert Trampel", "Luke J. Edwards", "Nikolaus Weiskopf"],
+    "title": "Mapping Short Association Fibers in the Early Cortical Visual Processing Stream Using In Vivo Diffusion Tractography",
+    "year": "2020",
+    "journal": "Cerebral Cortex",
+    "volume": "30",
+    "number": "8",
+    "pages": "4496-4514",
+    "doi": "https://doi.org/10.1093/cercor/bhaa049"
+  }
+}

@@ -1,0 +1,17 @@
+.iconMenu {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(5, auto);
+  grid-gap: 30px;
+  padding-top: 250px;
+}
+
+.icon {
+  display: block;
+  color: black;
+  font-size: 3rem;
+}
+
+.icon:hover {
+  transform: scale(1.5);
+}
