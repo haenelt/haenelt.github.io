@@ -1,4 +1,28 @@
 {
+  "haenelt2022": {
+    "author": ["Daniel Haenelt", "Robert Trampel", "Denis Chaimow", "Martin I. Sereno", "Nikolaus Weiskopf"],
+    "title": "Examination of draining vein contributions in GE- and SE-EPI BOLD across cortical depth at 7T",
+    "year": "2022",
+    "conference": "Poster presented at 28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)",
+    "city": "Glasgow",
+    "country": "Scotland"
+  },
+  "Chaimow2022": {
+    "author": ["Denis Chaimow", "Jonas K. Degutis", "Daniel Haenelt", "Robert Trampel", "Nikolaus Weiskopf", "Romy Lorenz"],
+    "title": "Towards a reproducible layer fMRI pipeline for high-level cognition",
+    "year": "2022",
+    "conference": "Poster presented at 28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)",
+    "city": "Glasgow",
+    "country": "Scotland"
+  },
+  "Degutis2022": {
+    "author": ["Jonas K. Degutis", "Denis Chaimow", "Daniel Haenelt", "Moataz Assem", "John Duncan", "Nikolaus Weiskopf", "Romy Lorenz"],
+    "title": "Increased working memory load activates superficial layers of the dorsolateral prefrontal cortex",
+    "year": "2022",
+    "conference": "Poster presented at 28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)",
+    "city": "Glasgow",
+    "country": "Scotland"
+  },
   "haenelt2021": {
     "author": ["Daniel Haenelt", "Robert Trampel", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Kerrin J. Pine", "Luke J. Edwards", "Saskia Helbling", "Nikolaus Weiskopf"],
     "title": "Myelination differences of stripes in human V2: Preliminary evidence from 7 T quantitative MRI",
