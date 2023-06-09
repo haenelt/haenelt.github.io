@@ -1,4 +1,20 @@
 {
+  "jastrzebowska2023": {
+    "author": ["Maya A. Jastrzebowska", "Nicolas Gravel", "Polina Iamshchinina", "Daniel Haenelt", "Nikolaus Weiskopf", "Radoslaw M. Cichy"],
+    "title": "Population receptive field sizes in human V1, V2 and V3 varies as a function of cortical depth",
+    "year": "2023",
+    "conference": "Poster presented at the European Conference on Visual Perception (ECVP)",
+    "city": "Paphos",
+    "country": "Cyprus"
+  },
+  "haenelt2023": {
+    "author": ["Daniel Haenelt", "Nikolaus Weiskopf", "Denis Chaimow", "Shahin Nasr", "Robert Trampel"],
+    "title": "Cortical depth-dependence of ocularity decoding in high-resolution fMRI at 7 T",
+    "year": "2023",
+    "conference": "Poster presented at the 29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)",
+    "city": "Montreal",
+    "country": "Canada"
+  },
   "haenelt2022": {
     "author": ["Daniel Haenelt", "Robert Trampel", "Denis Chaimow", "Martin I. Sereno", "Nikolaus Weiskopf"],
     "title": "Examination of draining vein contributions in GE- and SE-EPI BOLD across cortical depth at 7T",
@@ -23,12 +39,20 @@
     "city": "Glasgow",
     "country": "Scotland"
   },
-  "haenelt2021": {
+  "haenelt2021b": {
     "author": ["Daniel Haenelt", "Robert Trampel", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Kerrin J. Pine", "Luke J. Edwards", "Saskia Helbling", "Nikolaus Weiskopf"],
     "title": "Myelination differences of stripes in human V2: Preliminary evidence from 7 T quantitative MRI",
     "year": "2021",
     "conference": "Poster presented at 27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)",
     "city": "Virtual Conference",
+    "country": ""
+  },
+  "haenelt2021a": {
+    "author": ["Daniel Haenelt", "Robert Trampel", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Kerrin J. Pine", "Luke J. Edwards", "Saskia Helbling", "Nikolaus Weiskopf"],
+    "title": "Myelination differences of stripes in human V2: Preliminary evidence from 7 T quantitative MRI",
+    "year": "2021",
+    "conference": "Poster presented at Brain in Depth (BID) 2021: Annual Meeting on Meso-scale Imaging",
+    "city": "Virtual Meeting",
     "country": ""
   },
   "iamshchinina2020": {
@@ -47,7 +71,7 @@
     "city": "Virtual Conference",
     "country": ""
   },
-  "haenelt2019a": {
+  "haenelt2019c": {
     "author": ["Daniel Haenelt", "Nikolaus Weiskopf", "Rolan Mueller", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Robert Trampel"],
     "title": "Reliable 3D mapping of ocular dominance columns in humans using GE-EPI fMRI at 7 T",
     "year": "2019",
@@ -55,7 +79,7 @@
     "city": "Rome",
     "country": "Italy"
   },
-  "attar2019a": {
+  "attar2019b": {
     "author": ["Fakhereh Movahedian Attar", "Evgeniya Kirilina", "Daniel Haenelt", "Robert Trampel", "Luke J. Edwards", "Nikolaus Weiskopf"],
     "title": "Mapping visual field specific short V1-V2 connectivity using high resolution dMRI and fMRI",
     "year": "2019",
@@ -63,7 +87,15 @@
     "city": "Rome",
     "country": "Italy"
   },
-  "attar2019b": {
+  "haenelt2019b": {
+    "author": ["Daniel Haenelt", "Nikolaus Weiskopf", "Roland Mueller", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Robert Trampel"],
+    "title": "Reliable 3D mapping of ocular dominance columns in humans using GE-EPI fMRI at 7 T",
+    "year": "2019",
+    "conference": "Poster presented at Brain in Depth (BID) 2019: International Symposium on layer-dependent MRI",
+    "city": "Leipzig",
+    "country": "Germany"
+  },
+  "attar2019a": {
     "author": ["Fakhereh Movahedian Attar", "Evgeniya Kirilina", "Daniel Haenelt", "Luke J. Edwards", "Kerrin J. Pine", "Nikolaus Weiskopf"],
     "title": "Mapping short association fibres in the human visual system with ultra high resolution and high sensitivity diffusion MRI",
     "year": "2019",
@@ -79,7 +111,7 @@
     "city": "San Francisco",
     "country": "USA"
   },
-  "haenelt2019b": {
+  "haenelt2019a": {
     "author": ["Daniel Haenelt", "Robert Trampel", "Roland Mueller", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Nikolaus Weiskopf"],
     "title": "Reliable mapping of columnar structures in early visual cortex using GE-EPI at 7 T",
     "year": "2019",
@@ -87,13 +119,29 @@
     "city": "Dubrovnik",
     "country": "Croatia"
   },
-  "haenelt2018": {
+  "haenelt2018c": {
+    "author": ["Daniel Haenelt", "Robert Trampel", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Nikolaus Weiskopf"],
+    "title": "Mapping colour-selective columns in V2 across cortical depth using GE- and SE-EPI",
+    "year": "2018",
+    "conference": "Poster presented at Interpreting BOLD: Furthering the dialogue between cognitive and cellular neuroscience",
+    "city": "Oxford",
+    "country": "UK"
+  },
+  "haenelt2018b": {
     "author": ["Daniel Haenelt", "Robert Trampel", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Nikolaus Weiskopf"],
     "title": "Mapping colour-selective columns in V2 across cortical depth using GE- and SE-EPI",
     "year": "2018",
     "conference": "Poster presented at 24th Annual Meeting of the Organization for Human Brain Mapping (OHBM)",
     "city": "Singapore",
     "country": ""
+  },
+  "haenelt2018a": {
+    "author": ["Daniel Haenelt", "Robert Trampel", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Nikolaus Weiskopf"],
+    "title": "Mapping colour-selective columns in V2 across cortical depth using GE- and SE-EPI",
+    "year": "2018",
+    "conference": "Poster presented at Brain in Depth (BID) 2018: Symposium on layer-dependent MRI",
+    "city": "Magdeburg",
+    "country": "Germany"
   },
   "haenelt2017": {
     "author": ["Daniel Haenelt", "Robert Trampel", "Pierre-Louis Bazin", "Nikolaus Weiskopf", "Esther Kuehn"],
