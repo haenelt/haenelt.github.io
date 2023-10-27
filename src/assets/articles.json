@@ -1,4 +1,24 @@
 {
+  "degutis2023": {
+    "author": ["Jonas K. Degutis", "Denis Chaimow", "Daniel Haenelt", "Moataz Assem", "John Duncan", "John-Dylan Haynes", "Nikolaus Weiskopf", "Romy Lorenz"],
+    "title": "Dynamic layer-specific processing in the prefrontal cortex during working memory",
+    "year": "2023",
+    "journal": "bioRxiv",
+    "volume": "",
+    "number": "",
+    "pages": "1-24",
+    "doi": "https://doi.org/10.1101/2023.10.27.564330"
+  },
+  "haenelt2023": {
+    "author": ["Daniel Haenelt", "Denis Chaimow", "Shahin Nasr", "Nikolaus Weiskopf", "Robert Trampel"],
+    "title": "Decoding of columnar-level organization across cortical depth using BOLD- and CBV-fMRI at 7 T",
+    "year": "2023",
+    "journal": "bioRxiv",
+    "volume": "",
+    "number": "",
+    "pages": "1-33",
+    "doi": "https://doi.org/10.1101/2023.09.28.560016"
+  },
   "haenelt2022": {
     "author": ["Daniel Haenelt", "Robert Trampel", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Kerrin J. Pine", "Luke J. Edwards", "Saskia Helbling", "Nikolaus Weiskopf"],
     "title": "High resolution quantitative and functional MRI indicate lower myelination of thin and thick stripes in human secondary visual cortex",
