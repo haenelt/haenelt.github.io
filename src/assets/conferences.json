@@ -1,4 +1,12 @@
 {
+  "chaimow2024": {
+    "author": ["Denis Chaimow", "Karolis J. Degutis", "Daniel Haenelt", "Robert Trampel", "Nikolaus Weiskopf", "Romy Lorenz"],
+    "title": "Laminar fMRI in the human prefrontal cortex at 7 T: A replication study of layer-dependent activity during working memory",
+    "year": "2024",
+    "conference": "Poster presented at Brain in Depth (BID) Conference 2024",
+    "city": "Tuebingen",
+    "country": "Germany"
+  },
   "jastrzebowska2023": {
     "author": ["Maya A. Jastrzebowska", "Nicolas Gravel", "Polina Iamshchinina", "Daniel Haenelt", "Nikolaus Weiskopf", "Radoslaw M. Cichy"],
     "title": "Population receptive field sizes in human V1, V2 and V3 varies as a function of cortical depth",
