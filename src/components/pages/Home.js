@@ -1,6 +1,6 @@
-import { AiOutlineGithub, AiOutlineTwitter, AiOutlineGoogle, AiOutlineMail } from "react-icons/ai";
+import { AiOutlineGithub, AiOutlineGoogle, AiOutlineMail } from "react-icons/ai";
 import { FaResearchgate } from "react-icons/fa";
-import { FaSquareXTwitter } from "react-icons/fa6";
+import { FaXTwitter } from "react-icons/fa6";
 import styles from './Home.module.css';
 
 const Home = () => {
@@ -28,7 +28,7 @@ const Home = () => {
     <div className={styles.iconMenu}>
       <AiOutlineGithub className={styles.icon} onClick={handleGithub} />
       <FaResearchgate className={styles.icon} onClick={handleResearchgate} />
-      <FaSquareXTwitter className={styles.icon} onClick={handleTwitter} />
+      <FaXTwitter className={styles.icon} onClick={handleTwitter} />
       <AiOutlineGoogle className={styles.icon} onClick={handleGoogle} />
       <AiOutlineMail className={styles.icon} onClick={handleMail} />
     </div>
