@@ -22,12 +22,12 @@
   "haenelt2022": {
     "author": ["Daniel Haenelt", "Robert Trampel", "Shahin Nasr", "Jonathan R. Polimeni", "Roger B. H. Tootell", "Martin I. Sereno", "Kerrin J. Pine", "Luke J. Edwards", "Saskia Helbling", "Nikolaus Weiskopf"],
     "title": "High resolution quantitative and functional MRI indicate lower myelination of thin and thick stripes in human secondary visual cortex",
-    "year": "2022",
-    "journal": "bioRxiv",
-    "volume": "",
+    "year": "2023",
+    "journal": "eLife",
+    "volume": "12",
     "number": "",
-    "pages": "1-29",
-    "doi": "https://doi.org/10.1101/2022.04.28.489865"
+    "pages": "e78756",
+    "doi": "https://doi.org/10.7554/eLife.78756"
   },
   "iamshchinina2021b": {
     "author": ["Polina Iamshchinina", "Daniel Haenelt", "Robert Trampel", "Nikolaus Weiskopf", "Daniel Kaiser", "Radoslaw M. Cichy"],
