@@ -74,11 +74,11 @@ const Publications = () => {
 
   const pagesToString = (data) => {
     let pages = data["pages"].split("-");
-		if (pages.length === 1) {
+		if (pages.length > 1) {
 			return (
 				<>
 					<span>{pages[0]}. </span>
-				</>
+				</>"
 			);
 		} else {
 			return (
