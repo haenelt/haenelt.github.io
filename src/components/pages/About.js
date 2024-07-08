@@ -6,12 +6,7 @@ const About = () => {
     <div >
       <h1>About</h1>
       <img className={styles.imgProfile} src={imgProfile} alt="Profile"></img>
-      <p>I am a PhD student in the Neurophysics department at the <a href="https://www.cbs.mpg.de/departments/neurophysics">
-        Max Planck Institute for Human Cognitive and Brain Science</a> (MPI-CBS) in Leipzig, Germany. I studied physics at the
-        Free University in Berlin and at the Leipzig University, where I extended my studies to musicology and philosophy.
-        During my Master studies in physics, I joined the Neurophysics department at the MPI-CBS to write my Master Thesis
-        in the field of high-resolution fMRI at ultra-high magnetic field strengths. I continue working in this research field
-        during my PhD.</p>
+      <p>I am currently a Research Fellow in the lab of Jon Polimeni at the <a href="https://www.martinos.org/">Martinos Center for Biomedical Imaging</a>. After studying physics (MSc) and musicology/philosophy (BA) at the Free University of Berlin and the University of Leipzig, I pursued a PhD under the supervision of Prof. Nikolaus Weiskopf (Department of Neurophysics, <a href="https://www.cbs.mpg.de/en">Max Planck Institute for Human Cognitive and Brain Sciences</a>, Leipzig, Germany) investigating possibilities and challenges of BOLD- and CBV-based (VASO) high-resolution fMRI methods for the mapping of cortical columns in humans. Currently, I continue working on CBV-based imaging methods and the application of deep learning models to increase the spatiotemporal specificity of functional imaging methods.</p>
     </div >
   );
 };
