@@ -1,4 +1,12 @@
 {
+  "stroh2024": {
+    "author": ["Anna-Lena Stroh", "Daniel Haenelt", "Luke J. Edwards", "Fakhereh Movahedian Attar", "Kerrin J. Pine", "Robert Trampel", "Marcin Szwed", "Nikolaus Weiskopf"],
+    "title": "Zooming in: Using ultra-high resolution quantitative and diffusion MRI to unconver the underlying microstructural mechanisms of structural plasticity in congenitally blind humans",
+    "year": "2024",
+    "conferences": "Poster presented at the 22nd annual International Multisensory Research Forum (IMRF)",
+    "city": "Reno",
+    "country": "NV USA"
+  },
   "chaimow2024": {
     "author": ["Denis Chaimow", "Jonas K. Degutis", "Daniel Haenelt", "Robert Trampel", "Nikolaus Weiskopf", "Romy Lorenz"],
     "title": "Laminar fMRI in the human prefrontal cortex at 7 T: A replication study of layer-dependent activity during working memory",
