@@ -1,11 +1,12 @@
 {
-  "haenelt2024": {}, 
+  "haenelt2024": { 
     "author": ["Daniel Haenelt", "Jonathan R. Polimeni", "Yulin Chang", "Daniel E. P. Gomez", "Andre van der Kouwe", "Robert Frost"],
     "title": "Volumetric navigators for prospective motion correction of slab-selective high-resolution GRE at 7 T",
     "year": "2024",
     "conference": "Poster presented at the ISMRM Workshop on Motion Correction in MR",
     "city": "Quebec City",
-    "country": "Canada",
+    "country": "Canada"
+  },
   "stroh2024": {
     "author": ["Anna-Lena Stroh", "Daniel Haenelt", "Luke J. Edwards", "Fakhereh Movahedian Attar", "Kerrin J. Pine", "Robert Trampel", "Marcin Szwed", "Nikolaus Weiskopf"],
     "title": "Zooming in: Using ultra-high resolution quantitative and diffusion MRI to unconver the underlying microstructural mechanisms of structural plasticity in congenitally blind humans",
