@@ -1,9 +1,8 @@
 import styles from './CV.module.css';
 
 const CV = () => {
-  const cvFile = "https://drive.google.com/file/d/11-kHlWMDYjatcCxjoLuEZmrTu02oDaU2/preview";
-  
-  
+  const cvFile = "https://drive.google.com/file/d/12gyqlxr1BHVKuaKalHaAW2_gzOyNSgKJ/preview";
+
   return (
     <div >
       <h1>Curriculum Vitae</h1>

@@ -1,5 +1,15 @@
 {
-  "attar2024": {
+  "attar2024b": {
+    "author": ["Fakhereh M. Attar", "Evgeniya Kirilina", "Daniel Haenelt", "Robert Trampel", "Kerrin J. Pine", "Luke J. Edwards", "Nikolaus Weiskopf"],
+    "title": "Mapping short associaton fibre connectivity up to V3 in the human brain in vivo",
+    "year": "2024",
+    "journal": "Cerebral Cortex",
+    "volume": "34",
+    "number": "7",
+    "pages": "bhae279",
+    "doi": "https://doi.org/10.1093/cercor/bhae279" 
+  },
+  "attar2024a": {
     "author": ["Fakhereh M. Attar", "Evgeniya Kirilina", "Luke J. Edwards", "Daniel Haenelt", "Kerrin J. Pine", "Robert Trampel", "Denis Chaimow", "Nikolaus Weiskopf"],
     "title": "Connectivity at fine scale: mapping structural connective fields by tractography of short association fibres in vivo",
     "year": "2024",
