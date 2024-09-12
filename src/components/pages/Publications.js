@@ -17,7 +17,7 @@ const Publications = () => {
       let authorString = "";
       let authorCurrent = authors[i].split(' ');
       let authorLength = authorCurrent.length;
-      authorString += authorCurrent[authorLength - 1].replace("_", " ") // last name
+      authorString += authorCurrent[authorLength - 1].replaceAll("_", " ") // last name
       authorString += ", ";
       for (let j = 0; j < authorCurrent.length - 1; j++) { // first name
         authorString += authorCurrent[j][0] + ".";
