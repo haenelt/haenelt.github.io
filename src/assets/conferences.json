@@ -1,4 +1,20 @@
 {
+  "stroh2024b": {
+    "author": ["Anna-Lena Stroh", "Daniel Haenelt", "Luke J. Edwards", "Fakhereh Movahedian Attar", "Kerrin J. Pine", "Robert Trampel", "Marcin Szwed", "Nikolaus Weiskopf"],
+    "title": "Zooming in: Using ultra-high resolution quantitative and diffusion MRI to unconver the underlying microstructural mechanisms of structural plasticity in congenitally blind humans",
+    "year": "2024",
+    "conference": "Poster presented at the Seeing and Acting Workshop (SAW): Functional and Neural Perspectives",
+    "city": "Coimbra",
+    "country": "Portugal"
+  },
+  "schmidt2024": {
+    "author": ["Marianna E. Schmidt", "Daniel Haenelt", "Evgeniya Kirilina", "Nikolaus Weiskopf"],
+    "title": "Enhanced specificity for single eye ocular dominance column (ODC) mapping using neurophysiologically informed spatial filtering in ultra-high-resolution fMRI",
+    "year": "2024",
+    "conference": "Poster presented at the annual meeting of the Society for Neuroscience (SfN)",
+    "city": "Chicago",
+    "country": "IL USA"
+  },
   "haenelt2024": { 
     "author": ["Daniel Haenelt", "Jonathan R. Polimeni", "Yulin Chang", "Daniel E. P. Gomez", "Andre Van_der_Kouwe", "Robert Frost"],
     "title": "Volumetric navigators for prospective motion correction of slab-selective high-resolution GRE at 7 T",
@@ -7,7 +23,7 @@
     "city": "Quebec City",
     "country": "Canada"
   },
-  "stroh2024": {
+  "stroh2024a": {
     "author": ["Anna-Lena Stroh", "Daniel Haenelt", "Luke J. Edwards", "Fakhereh Movahedian Attar", "Kerrin J. Pine", "Robert Trampel", "Marcin Szwed", "Nikolaus Weiskopf"],
     "title": "Zooming in: Using ultra-high resolution quantitative and diffusion MRI to unconver the underlying microstructural mechanisms of structural plasticity in congenitally blind humans",
     "year": "2024",
