@@ -1,4 +1,36 @@
 {
+  "haenelt2025d": {
+    "author": ["Zijing Dong", "Daniel Haenelt", "Shahin Nasr", "Bruce R. Rosen", "Lawrence L. Wald", "Jonathan R. Polimeni", "Fuyixue Wang"],
+    "title": "Mesoscale fMRI at ultra-high spatiotemporal resolutions using 3D Echo Planar TIme and DYnamic-resolved Imaging (TIDY)",
+    "year": "2025",
+    "conference": "Talk at ISMRM & ISMRT Annual Meeting 2025",
+    "city": "Honolulu",
+    "country": "HI USA"
+  },
+  "haenelt2025c": {
+    "author": ["Daniel Haenelt", "Jonathan R. Polimeni", "Yulin Chang", "Saskia Bollmann", "Daniel E. P. Gomez", "Sharokh Abbasi-Rad", "Andre Van_der_Kouwe", "Robert Frost"],
+    "title": "High-resolution 0.16-mm time-of-flight angiography at 7 T with volumetric navigators for prospective motion correction",
+    "year": "2025",
+    "conference": "Talk at ISMRM & ISMRT Annual Meeting 2025",
+    "city": "Honolulu",
+    "country": "HI USA"
+  },
+  "haenelt2025b": {
+    "author": ["Daniel Haenelt", "Zijing Dong", "Zhangxuan Hu", "Kawin Setsompop", "Fuyixue Wang", "Jonathan R. Polimeni"],
+    "title": "Comparing BOLD contamination in CBV-based fMRI with conventional EPI and echo-planar time-resolved imaging (EPTI) at 7 T",
+    "year": "2025",
+    "conference": "Poster presented at ISMRM & ISMRT Annual Meeting 2025",
+    "city": "Honolulu",
+    "country": "HI USA"
+  },
+  "haenelt2025": {
+    "author": ["Daniel Haenelt", "Jonathan R. Polimeni", "Yulin Chang", "Saskia Bollmann", "Daniel E. P. Gomez", "Sharokh Abbasi-Rad", "Andre Van_der_Kouwe", "Robert Frost"],
+    "title": "Volumetric navigators for prospective motion correction of 0.16-mm isotropic time-of-flight angiography at 7 T",
+    "year": "2025",
+    "conference": "Poster presented at ISMRM Joint Workshop on Ultrahigh Field Magnetic Resonance & Brain Function",
+    "city": "Annapolis",
+    "country": "MD USA"
+  },
   "stroh2024b": {
     "author": ["Anna-Lena Stroh", "Daniel Haenelt", "Luke J. Edwards", "Fakhereh Movahedian Attar", "Kerrin J. Pine", "Robert Trampel", "Marcin Szwed", "Nikolaus Weiskopf"],
     "title": "Zooming in: Using ultra-high resolution quantitative and diffusion MRI to unconver the underlying microstructural mechanisms of structural plasticity in congenitally blind humans",
@@ -22,6 +54,14 @@
     "conference": "Poster presented at the ISMRM Workshop on Motion Correction in MR",
     "city": "Quebec City",
     "country": "Canada"
+  },
+  "jastrzebowska2024": {
+    "author": ["Maya A. Jastrzebowska", "Nicolas Gravel", "Polina Iamshchinina", "Daniel Haenelt", "Nikolaus Weiskopf", "Radoslaw M. Cichy"],
+    "title": "Cortical depth-dependent population receptive field size variation in human V1, V2 and V3",
+    "year": "2024",
+    "conference": "Journal of Vision",
+    "city": "24(10)",
+    "country": "846"
   },
   "stroh2024a": {
     "author": ["Anna-Lena Stroh", "Daniel Haenelt", "Luke J. Edwards", "Fakhereh Movahedian Attar", "Kerrin J. Pine", "Robert Trampel", "Marcin Szwed", "Nikolaus Weiskopf"],
