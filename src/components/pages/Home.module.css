@@ -7,6 +7,8 @@
 }
 
 .icon {
+  width: 1em;
+  height: 1em;
   display: block;
   color: black;
   font-size: 3rem;
