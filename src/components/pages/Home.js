@@ -1,6 +1,6 @@
 import { AiOutlineGithub, AiOutlineGoogle, AiOutlineMail } from "react-icons/ai";
 import { FaResearchgate } from "react-icons/fa";
-import { FaXTwitter } from "react-icons/fa6";
+import { FaBluesky } from "react-icons/fa6";
 import styles from './Home.module.css';
 
 const Home = () => {
@@ -12,8 +12,8 @@ const Home = () => {
     window.open("https://www.researchgate.net/profile/Daniel-Haenelt", "_blank");
   };
 
-  const handleTwitter = () => {
-    window.open("https://twitter.com/DanielHaenelt", "_blank");
+  const handleBluesky = () => {
+    window.open("https://bsky.app/profile/danielhaenelt.bsky.social", "_blank");
   };
 
   const handleGoogle = () => {
@@ -28,7 +28,7 @@ const Home = () => {
     <div className={styles.iconMenu}>
       <AiOutlineGithub className={styles.icon} onClick={handleGithub} />
       <FaResearchgate className={styles.icon} onClick={handleResearchgate} />
-      <FaXTwitter className={styles.icon} onClick={handleTwitter} />
+      <FaBluesky className={styles.icon} onClick={handleBluesky} />
       <AiOutlineGoogle className={styles.icon} onClick={handleGoogle} />
       <AiOutlineMail className={styles.icon} onClick={handleMail} />
     </div>
