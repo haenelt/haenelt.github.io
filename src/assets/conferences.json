@@ -1,4 +1,12 @@
 {
+  "haenelt2025e": {
+    "author": ["Daniel Haenelt", "Jonathan R. Polimeni", "Yulin Chang", "Saskia Bollmann", "Daniel E. P. Gomez", "Sharokh Abbasi-Rad", "Andre Van_der_Kouwe", "Robert Frost"],
+    "title": "Volumetric navigators for prospective motion correction of 0.16-mm isotropic time-of-flight angiography at 7 T",
+    "year": "2025",
+    "conference": "Poster presented at the 7T Translational Alliance in North America (7T TANA) Meeting 2025",
+    "city": "Dallas",
+    "country": "TX USA"
+  },
   "haenelt2025d": {
     "author": ["Zijing Dong", "Daniel Haenelt", "Shahin Nasr", "Bruce R. Rosen", "Lawrence L. Wald", "Jonathan R. Polimeni", "Fuyixue Wang"],
     "title": "Mesoscale fMRI at ultra-high spatiotemporal resolutions using 3D Echo Planar TIme and DYnamic-resolved Imaging (TIDY)",
