@@ -1,7 +1,7 @@
 import styles from './CV.module.css';
 
 const CV = () => {
-  const cvFile = "https://drive.google.com/file/d/1UFNeMg5Gih3DpC5MobMNXEfjOdrhxaOK/preview";
+  const cvFile = "https://drive.google.com/file/d/15ODqOGj8kJdkEQZljt2Teb17bJnRGTxg/preview";
 
   return (
     <div >
