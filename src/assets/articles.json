@@ -1,4 +1,14 @@
 {
+  "haenelt2025": {
+    "author": ["Daniel Haenelt", "Robert Trampel", "Denis Chaimow", "Amir Shmuel", "Martin I. Sereno", "Nikolaus Weiskopf"],
+    "title": "Spatial specificity of the functional gradient echo and spin echo BOLD signal across cortical depth at 7 T",
+    "year": "2025",
+    "journal": "bioRxiv",
+    "volume": "",
+    "number": "",
+    "pages": "1-33",
+    "doi": "https://doi.org/10.1101/2025.07.28.667324"
+  },
   "stroh2025": {
     "author": ["Anna-Lena Stroh", "Daniel Haenelt", "Luke J. Edwards", "Fakhereh M. Attar", "Kerrin J. Pine", "Robert Trampel", "Marcin Szwed",  "Nikolaus Weiskopf"],
     "title": "Myelination of the early visual cortex depends on sensory experience during development",
