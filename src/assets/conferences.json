@@ -1,4 +1,52 @@
 {
+  "nguyen2026": {
+    "author": ["Nghi Nguyen", "Daniel Haenelt", "Duy-Duong Tran", "Trang Cao", "Robert Trampel", "Nikolaus Weiskopf"],
+    "title": "Laminar segregation of slow hemodynamic oscillations in human V1 via geometric and dynamic analysis",
+    "year": "2026",
+    "conference": "Poster presented at the 32th Annual Meeting of the Organization for Human Brain Mapping (OHBM)",
+    "city": "Bordeaux",
+    "country": "France"
+  },
+  "haenelt2026c": {
+    "author": ["Daniel Haenelt", "Grant Hartung", "Avery Berman", "Jean Chen", "Jian Wu", "Berkin Bilgic", "Robert Frost", "Zijing Dong", "Fuyixue Wang", "Jonathan R. Polimeni"],
+    "title": "Modeling of large-vessel BOLD contributions in Echo-Planar Time-resolved Imaging (EPTI) using subject-specific MR angiography",
+    "year": "2026",
+    "conference": "",
+    "city": "Cape Town",
+    "country": "South Africa"
+  },
+  "haenelt2026b": {
+    "author": ["Daniel Haenelt", "Louisa Dahmani", "Jian Wu", "Hesheng Liu", "Jonathan R. Polimeni", "Zijing Dong", "Fuyixue Wang"],
+    "title": "Deep contrastive variational autoencoder for physiological noise removal of Echo-Planar Time-resolved (EPTI) fMRI",
+    "year": "2026",
+    "conference": "",
+    "city": "Cape Town",
+    "country": "South Africa"
+  },
+  "hartung2026": {
+    "author": ["Grant Hartung", "Avery Berman", "Daniel Haenelt", "Dominik Schillinger", "Jonathan R. Polimeni"],
+    "title": "Modeling effects of EPI readout on laminar profiles of spin-echo BOLD via biophysical simulations using realistic vasculatur",
+    "year": "2026",
+    "conference": "",
+    "city": "Cape Town",
+    "country": "South Africa"
+  },
+  "gopinath2026": {
+    "author": ["Karthik Gopinath", "Paul Wighton", "Mukund Balasubramanian", "Robert Frost", "Laurentius Huber", "Kyle Droppa", "Douglas N. Greve", "Jesper D. Nielsen", "Oula Puonti", "Daniel Haenelt", "Andre Van_der_Kouwe", "Bruce Fischl", "Jonathan R. Polimeni", "Juan E. Iglesias", "Divya Varadarajan"],
+    "title": "SurfScribe: Cortical surface-driven automated online slice prescription applied to ultra-high-resolution vascular MRI",
+    "year": "2026",
+    "conference": "",
+    "city": "Cape Town",
+    "country": "South Africa"
+  },
+  "haenelt2026": {
+    "author": ["Daniel Haenelt", "Louisa Dahmani", "Jian Wu", "Hesheng Liu", "Jonathan R. Polimeni", "Zijing Dong", "Fuyixue Wang"],
+    "title": "Deep contrastive variational autoencoder for physiological noise removal of Echo-Planar Time-resolved (EPTI) fMRI",
+    "year": "2026",
+    "conference": "Poster presented at the MIT Medical Imaging Initiative Symposium",
+    "city": "Cambridge",
+    "country": "MA USA"
+  },
   "haenelt2025e": {
     "author": ["Daniel Haenelt", "Jonathan R. Polimeni", "Yulin Chang", "Saskia Bollmann", "Daniel E. P. Gomez", "Sharokh Abbasi-Rad", "Andre Van_der_Kouwe", "Robert Frost"],
     "title": "Volumetric navigators for prospective motion correction of 0.16-mm isotropic time-of-flight angiography at 7 T",
