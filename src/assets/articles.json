@@ -1,4 +1,14 @@
 {
+  "stroh2026": {
+    "author": ["Anna-Lena Stroh", "Luke J. Edwards", "Daniel Haenelt", "Fakhereh M. Attar", "Kerrin J. Pine", "Robert Trampel", "Marcin Szwed", "Nikolaus Weiskopf"],
+    "title": "Congenital blindness reduces myelination in human visual cortex",
+    "year": "2026",
+    "journal": "Science Advances",
+    "volume": "12",
+    "number": "",
+    "pages": "eaec2348",
+    "doi": "https://doi.org/10.1126/sciadv.aec2348"
+  },
   "haenelt2026": {
     "author": ["Daniel Haenelt", "Denis Chaimow", "Marianna Elisa Schmidt","Shahin Nasr", "Nikolaus Weiskopf", "Robert Trampel"],
     "title": "Decoding of columnar-level organization across cortical depth using BOLD- and CBV-fMRI at 7 T",
